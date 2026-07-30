@@ -6,6 +6,7 @@ To control the position of motor having the following specifications using MATLA
 (Ktf)    motor torque constant   =           1.5 N.m/Amp<br>
 (Rf)     field resistance  =              2 Ohm<br>
 (Lf)     field inductance  =              0.5 H<br>
+(Kb)      back emf constant = 0.5<br>
 ## Apparatus Required:
 Computer with MATLAB software
 ## Theory: 
