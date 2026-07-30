@@ -4,8 +4,8 @@ To control the position of motor having the following specifications using MATLA
 (J)     moment of inertia of the rotor =    0.02 kg.m^2<br>
 (b)     motor viscous friction constant =    0.002 N.m.s<br>
 (Ktf)    motor torque constant   =           1.5 N.m/Amp<br>
-(Rf)     field resistance  =              2 Ohm<br>
-(Lf)     field inductance  =              0.5 H<br>
+(Rf)    armature resistance  =              2 Ohm<br>
+(Lf)     armature inductance  =              0.5 H<br>
 (Kb)      back emf constant = 0.5<br>
 ## Apparatus Required:
 Computer with MATLAB software
